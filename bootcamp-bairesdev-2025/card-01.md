@@ -32,3 +32,40 @@ Comecei com entusiasmo e com foco em absorver cada etapa com atenção. A organi
 - Critérios de Sucesso - Como Responder (Como eu faço a mágica acontecer? Quais as abordagens eu usei? Quais os resultados mensuráveis eu gerei?)
 - Olhar para os Star Stories - DICA para aprender tipos de Framework
 - Base sobre o modelo de linguagem LLM em diversas áreas de conhecimento (Ex.: IA, Phyton e Machine Learning, etc...)
+
+# 📌 Card 01 — Início da Jornada no Bootcamp BairesDev
+
+**📅 Data:** 13/07/2025  
+**⏱️ Duração estimada:** 1 hora  
+**🎯 Objetivo do módulo:**  
+Iniciar o aprendizado em Machine Learning com a BairesDev, conhecendo o programa, metas e estrutura da trilha.
+
+---
+
+### 📘 Conteúdo estudado:
+- Visão geral do Bootcamp
+- Método STAR (Situação, Tarefa, Ação, Resultado)
+- Timeline e cronograma do programa
+- Mentorias ao vivo (03/07, 03/08, 03/09)
+
+---
+
+### 🧪 Exercícios práticos:
+- [x] Definir meta de estudos: 20h semanais (seg a sex)
+- [x] Participar da live de lançamento
+- [x] Concluir atividade introdutória na DIO
+- [x] Emitir certificado de conclusão
+
+---
+
+### ✍️ Reflexões pessoais:
+Comecei com entusiasmo e foco em absorver cada etapa com atenção. A organização das metas semanais vai me ajudar a manter o ritmo. Estou animada para ver como Python e IA podem se integrar à minha atuação com comunicação estratégica centrada no humano.
+
+---
+
+### ⏭️ Próxima etapa:
+Explorar fundamentos de Python e fazer os primeiros exercícios práticos.
+
+---
+
+*Padroniza layout do Cartão 01*
