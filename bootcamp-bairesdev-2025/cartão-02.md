@@ -21,3 +21,6 @@ Compreender a lógica básica da programação e a estrutura da linguagem Python
 
 **📌 Próxima etapa:**  
 Avançar para conceitos aplicados em projetos com Python + IA
+
+Padroniza layout do cartão 02
+
