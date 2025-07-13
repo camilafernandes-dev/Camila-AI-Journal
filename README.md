@@ -21,8 +21,13 @@ To create a transparent and reflective space where I can track my progress, shar
 ---
 
 ## 📚 Weekly Logs
-Each week, I’ll add reflections and key learnings from the bootcamp in individual markdown files inside the `/bootcamp-bairesdev-2025` folder.
+## 📂 Weekly Logs
 
+🔹 [Cartão 01 – Bootcamp: Início](bootcamp-bairesdev-2025/cartao-01-bootcamp-inicio.md)  
+🔹 [Cartão 02 – Fundamentos de Python](bootcamp-bairesdev-2025/cartao-02-fundamentos-python.md)  
+🔹 [Cartão 03 – Machine Learning: Projetos Práticos](bootcamp-bairesdev-2025/cartao-03-machine-learning-projetos.md)
+
+🧩 Próximos cartões serão adicionados conforme o avanço da trilha.
 Stay tuned!
 
 ---
