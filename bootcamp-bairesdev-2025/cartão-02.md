@@ -24,3 +24,30 @@ Avançar para conceitos aplicados em projetos com Python + IA
 
 Padroniza layout do cartão 02
 
+## 📌 Card 02 — Fundamentos de Python e primeiros exercícios
+
+**📅 Data:** [13/07/2025]  
+**⏳ Tempo estimado:** [ex: 2h]  
+**🎯 Objetivo:** Compreender a estrutura básica da linguagem Python e praticar os primeiros comandos.
+
+---
+
+**📚 Conteúdo estudado:**
+- Tipos de dados
+- Variáveis
+- Operadores lógicos
+- Funções
+
+---
+
+**🧠 Exercícios realizados:**
+- [x] Variáveis e tipos
+- [ ] Condicionais
+- [ ] Funções simples
+
+---
+
+**💬 Reflexão pessoal:**
+Escreva aqui suas impressões, dúvidas ou insights sobre essa etapa do aprendizado.
+
+---
